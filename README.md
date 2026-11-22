@@ -25,7 +25,7 @@ Software Engineering & IT student based in Morocco. Focused on full-stack web de
 
 ### `// featured_work`
 
-- **[KonKours.ma](https://konkour.vercel.com)** — Web platform designed to help Moroccan graduates prepare for public sector recruitment exams.
+- **[KonKours.ma](https://konkour.vercel.app)** — Web platform designed to help Moroccan graduates prepare for public sector recruitment exams.
 
 ---
 
