@@ -32,6 +32,6 @@ Software Engineering & IT student based in Morocco. Focused on full-stack web de
 ### `// connect`
 
 - **GitHub:** [@DarkMed04](https://github.com/DarkMed04);
-- **GitHub:** [Outlook](baha.moha@outlook.com);
+- **E-mail:** baha.moha@outlook.com;
 - **Photography:** [@medshashin](https://instagram.com/medshashin);
 - **Personal ig Acc:** [@med_v2.0](https://www.instagram.com/med_v2.0/);
