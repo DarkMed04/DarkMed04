@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hey, I'm Mohamed (`DarkMed04`)
 
-<!--
-**DarkMed04/DarkMed04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineering & IT student based in Morocco. Focused on full-stack web development, database systems, and Linux environments.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### `// about_me`
+
+- Software Engineering student;
+- Daily driving **Ubuntu Linux** & building for the web;
+- Exploring relational databases, backend logic, and clean UI/UX;
+- Capturing minimalist & vintage film-style photography on the side;
+
+---
+
+### `// tech_stack`
+
+**Languages & Databases**  
+`SQL` · `JAVA` · `Oracle` · `JavaScript` · `C#` · `HTML/CSS` · `PHP`
+
+**Tools & Environment**  
+`Linux (Ubuntu)` · `Git & GitHub` · `Visual Studio` · `VS Code` · `Cisco Packet Tracer`
+
+---
+
+### `// featured_work`
+
+- **[KonKours.ma](https://konkour.vercel.com)** — Web platform designed to help Moroccan graduates prepare for public sector recruitment exams.
+
+---
+
+### `// connect`
+
+- **GitHub:** [@DarkMed04](https://github.com/DarkMed04)
+- **Photography:** [@medshashin](https://instagram.com/medshashin)
+- **Personal Acc:** [@med_v2.0](https://www.instagram.com/med_v2.0/)
